@@ -19,7 +19,7 @@ Replication code for the manuscript figure in:
 
 ## How to reproduce
 
-1. Download `bhmra_housing-labour.RDS` from [OSF URL — placeholder] and place it in `output/`
+1. Download `bhmra_housing-labour.RDS` from https://osf.io/76fp9/files/82fqk and place it in `output/`
 2. Open `housing-labour-figure.Rproj` in RStudio (or set working directory to repo root)
 3. Run: `source("reproduce_figure.R")`
 
@@ -36,7 +36,7 @@ Original data and full analysis code for each market:
 - Rental market: https://osf.io/t7hbe
 - Labour market: https://doi.org/10.17605/OSF.IO/MGC4Y
 
-The combined model output used to generate the figure (`bhmra_housing-labour.RDS`) is available at [OSF URL — placeholder]. It contains a fitted Bayesian hierarchical meta-regression model (Student-t likelihood, `brms`) pooling correspondence audit effect sizes from both the rental and labour market, estimated separately for five discrimination grounds (race/ethnicity, sex/gender, health/disability, sexual orientation, social origin).
+The combined model output used to generate the figure (`bhmra_housing-labour.RDS`) is available at https://osf.io/76fp9/files/82fqk. It contains a fitted Bayesian hierarchical meta-regression model (Student-t likelihood, `brms`) pooling correspondence audit effect sizes from both the rental and labour market, estimated separately for five discrimination grounds (race/ethnicity, sex/gender, health/disability, sexual orientation, social origin).
 
 ---
 

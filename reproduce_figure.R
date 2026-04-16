@@ -17,11 +17,11 @@ dir.out <- file.path(here::here(), "output")
 if (!dir.exists(dir.out)) dir.create(dir.out)
 
 # Load model ####
-bhmra_path <- file.path(dir.out, "bhmra.RDS")
+bhmra_path <- file.path(dir.out, "bhmra_housing-labour.RDS")
 
 if (!file.exists(bhmra_path)) {
   stop(
-    "bhmra.RDS not found. Download it from [OSF URL] and place it in the output/ folder.",
+    "bhmra_housing-labour.RDS not found. Download it from https://osf.io/76fp9/files/82fqk and place it in the output/ folder.",
     call. = FALSE
   )
 }
