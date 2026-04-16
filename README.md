@@ -14,7 +14,8 @@ Replication code for the manuscript figure in:
 | Path | Description |
 |------|-------------|
 | `reproduce_figure.R` | Reproduces the manuscript figure from saved model output |
-| `output/bhma_housing-labour.png` | Pre-generated manuscript figure |
+| `output/bhma_housing-labour.png` | Pre-generated manuscript figure (PNG) |
+| `output/bhma_housing-labour.tiff` | Pre-generated manuscript figure (TIFF) |
 
 ---
 

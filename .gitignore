@@ -1,5 +1,4 @@
 output/*.RDS
-output/*.tiff
 .Rhistory
 .RData
 .Rproj.user/
