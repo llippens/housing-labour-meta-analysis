@@ -4,6 +4,7 @@ Replication code for the manuscript figure in:
 
 > Devos, L.†, Lippens, L.†, Baert, S., & Verhaeghe, P. P. (*forthcoming*).
 > Different market, same treatment? A global comparison of hiring and housing discrimination.
+> OSF: https://osf.io/76fp9
 > †Equal contribution.
 
 ---
